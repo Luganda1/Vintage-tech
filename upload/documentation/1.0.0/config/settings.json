@@ -1,0 +1,8 @@
+{
+    "provider": "cloudinary",
+    "providerOptions": {
+        "cloud_name": "ddsc23asy",
+        "api_key": "256347333714929",
+        "api_secret": "tNgJxnmgv29OfnyW7ECgVTqOHQw"
+        }
+}
